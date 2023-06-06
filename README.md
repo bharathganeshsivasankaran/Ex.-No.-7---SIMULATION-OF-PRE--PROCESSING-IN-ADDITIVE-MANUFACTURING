@@ -44,7 +44,8 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-![Uploading Screenshot 2023-06-06 085058.png…]()
+![SCREEN SHOT 7](https://github.com/bharathganeshsivasankaran/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119478098/bb8346b3-a5e8-460a-9764-b9ca4926094d)
+
 
 ### Name: BHARATHGANESH.S
 ### Register Number:212222230022
